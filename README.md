@@ -26,7 +26,7 @@
 * [Licencia](#licencia)
 
 * [Conclusión](#conclusión)
-
+w
 Is an application that has an augmented reality catalog that allows you to have a digital layer that, through any mobile device, let's you virtually place true-to-scale 3D models in your very own space. Combining the latest AR technology and SCHUNK's product automation solutions.
 
 | [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Roderíck</sub>](https://github.com/Roderichs) |
