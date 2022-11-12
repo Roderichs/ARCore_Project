@@ -9,25 +9,33 @@
 
 ### Topics
 
-* [Descripción del proyecto](#descripción-del-proyecto)
+- [Project Description](#project-description-)
 
-* [Estado del proyecto](#Estado-del-proyecto)
+- [Estado del proyecto](#Estado-del-proyecto)
 
-* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-* [Acceso al proyecto](#acceso-proyecto)
+- [Acceso al proyecto](#acceso-proyecto)
 
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
 
 - [Creators](#creators-)
 
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
+- [Licencia](#licencia)
 
-* [Conclusión](#conclusión)
+- [Conclusión](#conclusión)
 
-Is an application that has an augmented reality catalog that allows you to have a digital layer that, through any mobile device, let's you virtually place true-to-scale 3D models in your very own space. Combining the latest AR technology and SCHUNK's product automation solutions.
+## Project Description ✏ 
+
+Let's MOVE
+
+Augmented Reality Application that allows viewing a series of digitized products.
+
+C&G AR is an application that has an augmented reality catalog that allows you to have a digital layer that, through any mobile device, let's you virtually place true-to-scale 3D models in your very own space. Combining the latest AR technology and SCHUNK's product automation solutions.
+
+Try our industrial clamping, gripping and automatization solutions and get an idea of how it could fit your process.
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
