@@ -16,7 +16,7 @@
 
 - [Creators](#creators-)
 
-- [Conclusion](#conclusion-)
+- [Conditions of Use and Privacy Notice](#conditions-of-use-and-privacy-notice-)
 
 ## Project Description ✏ 
 
@@ -83,4 +83,6 @@ sadasdasdsa
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
 
-## Conclusion 📑
+## Conditions of Use and Privacy Notice 📑
+
+All computer material, source code, software, graphic designs, images, photographs, sounds, animations, texts, name, as well as the information and content made available to the user through the `C&G AR (Clamping & Gripping AR)` application, are protected by copyright property whose owner is `SCHUNK México`, and its use is only permitted for consultation purposes, its use and/or total or partial reproduction for commercial purposes other than those foreseen being strictly prohibited; its modification, transformation or decompilation, will be carried out solely and exclusively by the owner of the same and collaborators.
