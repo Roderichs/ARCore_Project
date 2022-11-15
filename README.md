@@ -2,34 +2,21 @@
 
 ![Gráfico-de-funciones](https://user-images.githubusercontent.com/88564981/201443514-e75869d1-1166-4384-8946-b67883632da0.png)
 
- <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   :construction: Proyecto en construcción :construction:
- </p>
-
 ### Topics
 
 - [Project Description](#project-description-)
 
-- [Estado del proyecto](#Estado-del-proyecto)
+- [Project Status](#project-status-)
 
-- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+- [Languages](#languages-) 
 
-- [Functionality](#functionality-)
+- [Platforms](#platforms-)
 
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Used Tools](#used-tools-)
 
 - [Creators](#creators-)
 
-- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-- [Licencia](#licencia)
-
-- [Conclusión](#conclusión)
-
-## Functionality ⚙️
-
-sssss
+- [Conclusion](#conclusion-)
 
 ## Project Description ✏ 
 
@@ -41,8 +28,48 @@ C&G AR is an application that has an augmented reality catalog that allows you t
 
 Try our industrial clamping, gripping and automatization solutions and get an idea of how it could fit your process.
 
+## Project Status 💡
+
+<p align="center">
+   <img src="https://img.shields.io/badge/STATUS-DEVELOPING-success"><br><br>
+   :construction: Project under construction :construction:
+</p>
+
+## Languages 💻
+
+<p align="center">
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
+   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"><br>
+   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> 
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
+   <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
+
+## Platforms 📱
+
+:heavy_check_mark: `Functionality 1:` Allows you to view products in augmented reality.<br>
+
+:heavy_check_mark: `Functionality 2:` Allows products to be listed in a digital catalog.<br>
+
+:heavy_check_mark: `Functionality 3:` Allows you to share the capture of the products on social networks with a description.<br>
+
+:heavy_check_mark: `Functionality 4:` Allows you to select a list of products registered in a cloud and also position them on a digital plane to rotate or modify their position.<br>
+
+:heavy_check_mark: `Functionality 5:` It has a button to close the app.<br>
+
+## Used Tools 🎡
+
+<p align="center">
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><br>
+</p>
+
+
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
 | [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Roderíck</sub>](https://github.com/Roderichs) |
 | :---------------------------------------------------------------------------------------------------------------------: |
 
+## Conclusion 📑
