@@ -77,11 +77,11 @@ Try our industrial clamping, gripping and automatization solutions and get an id
 | [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Rodrigo Melgarejo</sub>](https://github.com/Roderichs) | [<img src="https://avatars.githubusercontent.com/u/46466785?v=4" width="115"><br><sub>@Ricardo Zamudio</sub>](https://github.com/JustZeus) |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------:
 
-sadasdasdsa
+The development of the application was possible thanks to our collaborator `SCHUNK México`, who gave us permission to use the products and designs.
 
 |                                                                                                                                     Collaborator                                                                                                                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@SCHUNK</sub>](https://schunk.com/mx/es) <br><br> [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://buymeacoffee.com/mrhrifat) |
+| [<img src="https://media-exp1.licdn.com/dms/image/C560BAQGZAaRxgeRlWg/company-logo_200_200/0/1659474356602?e=2147483647&v=beta&t=s_1Sw9dqxJJ3V15sf1pB16z16jpd9-i2qDwl5Ozv3Uo" width=115><br><sub>@SCHUNK México</sub>](https://schunk.com/mx/es) <br><br> [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mx.linkedin.com/company/schunk-intec-mexico) |
 
 ## Conditions of Use and Privacy Notice 📑
 
