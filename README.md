@@ -74,8 +74,7 @@ Try our industrial clamping, gripping and automatization solutions and get an id
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
-| [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Roderíck</sub>](https://github.com/Roderichs) |
-| :---------------------------------------------------------------------------------------------------------------------: | [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Roderíck</sub>](https://github.com/Roderichs) |
-| :---------------------------------------------------------------------------------------------------------------------:
+| [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Rodrigo Melgarejo</sub>](https://github.com/Roderichs) | [<img src="https://avatars.githubusercontent.com/u/46466785?v=4" width="115"><br><sub>@Ricardo Zamudio</sub>](https://github.com/JustZeus) |
+| :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------:
 
 ## Conclusion 📑
