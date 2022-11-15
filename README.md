@@ -15,7 +15,7 @@
 
 - [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-- [Acceso al proyecto](#acceso-proyecto)
+- [Functionality](#functionality-)
 
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 
@@ -26,6 +26,9 @@
 - [Licencia](#licencia)
 
 - [Conclusión](#conclusión)
+
+## Functionality ⚙️
+
 
 ## Project Description ✏ 
 
@@ -41,3 +44,4 @@ Try our industrial clamping, gripping and automatization solutions and get an id
 
 | [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Roderíck</sub>](https://github.com/Roderichs) |
 | :---------------------------------------------------------------------------------------------------------------------: |
+
