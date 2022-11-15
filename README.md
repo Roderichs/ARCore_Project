@@ -81,7 +81,7 @@ sadasdasdsa
 
 |                                                                                                                                     Collaborator                                                                                                                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
+| [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@SCHUNK</sub>](https://schunk.com/mx/es) <br><br> [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://buymeacoffee.com/mrhrifat) |
 
 ## Conditions of Use and Privacy Notice 📑
 
