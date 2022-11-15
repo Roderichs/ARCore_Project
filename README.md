@@ -62,14 +62,20 @@ Try our industrial clamping, gripping and automatization solutions and get an id
 ## Used Tools 🎡
 
 <p align="center">
-   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><br>
+   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><br>
+   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
 
 ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
 | [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Roderíck</sub>](https://github.com/Roderichs) |
-| :---------------------------------------------------------------------------------------------------------------------: |
+| :---------------------------------------------------------------------------------------------------------------------: | [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Roderíck</sub>](https://github.com/Roderichs) |
+| :---------------------------------------------------------------------------------------------------------------------:
 
 ## Conclusion 📑
