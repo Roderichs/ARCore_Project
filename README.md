@@ -77,4 +77,10 @@ Try our industrial clamping, gripping and automatization solutions and get an id
 | [<img src="https://avatars.githubusercontent.com/u/88564981?v=4" width="115"><br><sub>@Rodrigo Melgarejo</sub>](https://github.com/Roderichs) | [<img src="https://avatars.githubusercontent.com/u/46466785?v=4" width="115"><br><sub>@Ricardo Zamudio</sub>](https://github.com/JustZeus) |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------:
 
+sadasdasdsa
+
+|                                                                                                                                     Collaborator                                                                                                                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
+
 ## Conclusion 📑
